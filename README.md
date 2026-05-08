@@ -200,18 +200,4 @@ All three models use publicly-available pretrained weights:
 | Diffusion (Palette) | [GitHub — see Diffusion_model/README.md](Diffusion_model/README.md) |
 
 ---
-
-## Citation
-
-```bibtex
-@inproceedings{zhang2016colorful,
-  title={Colorful Image Colorization},
-  author={Zhang, Richard and Isola, Phillip and Efros, Alexei A},
-  booktitle={ECCV}, year={2016}
-}
-@inproceedings{saharia2022palette,
-  title={Palette: Image-to-Image Diffusion Models},
-  author={Saharia, Chitwan and others},
-  booktitle={NeurIPS}, year={2022}
-}
 ```
