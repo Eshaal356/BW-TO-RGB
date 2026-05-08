@@ -200,4 +200,3 @@ All three models use publicly-available pretrained weights:
 | Diffusion (Palette) | [GitHub — see Diffusion_model/README.md](Diffusion_model/README.md) |
 
 ---
-```
